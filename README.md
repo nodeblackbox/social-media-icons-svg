@@ -1,6 +1,6 @@
-# SVG Icons Collection
+# Social Media Icons SVG Collection
 
-This repository contains a collection of SVG icons for use in web projects.
+A collection of SVG icons created in Adobe Illustrator, perfect for use as social media links in web projects.
 
 ## Available Icons
 
